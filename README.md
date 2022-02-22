@@ -9,7 +9,7 @@
 - Day4: Data Structures in python
 -     video:https://transcripts.gotomeeting.com/#/s/db1274440ffd23db16d81b7e53205792854d54bae2253bdfde141c90e18976a3
 - Day5: contiued with Data structures
--   video:https://transcripts.gotomeeting.com/#/s/7780173681a698dbef45df0da4ba625a9dd3041060a9bbc8b6caa657a8b08b3e
+-   video: https://transcripts.gotomeeting.com/#/s/7780173681a698dbef45df0da4ba625a9dd3041060a9bbc8b6caa657a8b08b3e
 - Day6: Introduction to Data Science and Numpy
 -   video: https://transcripts.gotomeeting.com/#/s/26215109fce94204be20f2a45aae11cede495878e79a00b9955f870d59f0263d
 - Day7: Continued with numpy and pandas
