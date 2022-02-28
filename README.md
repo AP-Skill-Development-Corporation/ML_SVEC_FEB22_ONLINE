@@ -14,3 +14,5 @@
 -   video: https://transcripts.gotomeeting.com/#/s/26215109fce94204be20f2a45aae11cede495878e79a00b9955f870d59f0263d
 - Day7: Continued with numpy and pandas
 -   video:https://transcripts.gotomeeting.com/#/s/31d94cf1a77c9a29adc3c35aa4d05942525528a47f23cb86da5e2adb99cd0150
+- Day8:Discussed matplotlib module
+  video:- https://transcripts.gotomeeting.com/#/s/d7e4f528271ca7425543a6fc4a896ef998f9ec0e83ca69f3c06737139409b349
