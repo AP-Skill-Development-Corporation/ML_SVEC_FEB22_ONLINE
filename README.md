@@ -16,3 +16,4 @@
 -   video:https://transcripts.gotomeeting.com/#/s/31d94cf1a77c9a29adc3c35aa4d05942525528a47f23cb86da5e2adb99cd0150
 - Day8:Discussed matplotlib module
   video:- https://transcripts.gotomeeting.com/#/s/d7e4f528271ca7425543a6fc4a896ef998f9ec0e83ca69f3c06737139409b349
+- Video of Logistic Regression: https://transcripts.gotomeeting.com/#/s/a44d3009ecfd4620bc85e9d25e0e4ee853926a5f43541a6b91a25c03d5d8c574
